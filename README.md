@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td>
-      Hello! I'm <b>Musharaf Maqbool</b>, a 3rd-year B.Tech IT undergrad at <b>NIT Srinagar</b>. I specialize in <b>cybersecurity</b>, <b>threat intelligence</b>, and <b>data science</b>. I'm currently working on <b>threat correlation</b> using <b>MISP</b> and <b>NVD</b> with <b>Elasticsearch</b> and building interactive dashboards using <b>Flask + React.js</b>.
+      Hello! I'm <b>Musharaf Maqbool</b>, a 3rd-year B.Tech IT undergrad at <b>NIT Srinagar</b>. I specialize in <b>cybersecurity</b>, <b>threat intelligence</b>, and <b>data science</b>.
       <br><br>
       <ul>
         <li>🌱 <b>Learning:</b> Advanced threat intelligence and data science</li>
