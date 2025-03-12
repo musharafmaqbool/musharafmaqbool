@@ -29,7 +29,7 @@
         <li>🌱 <b>Learning:</b> Advanced threat intelligence and data science</li>
         <li>💼 <b>Experience:</b> Cybersecurity Intern at CDAC</li>
         <li>👨‍💻 <b>Check out my projects:</b> <a href="https://github.com/musharafmaqbool">GitHub</a></li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:musharafmaqbool2003@gmail.com">musharafmaqbool2003@gmail.com</a></li>
+        <li>📫 <b>How to reach me:</b> <a href="mailto:musharafmaqbool06@gmail.com">musharafmaqbool06@gmail.com</a></li>
       </ul>
     </td>
     <td>
