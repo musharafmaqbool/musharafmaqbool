@@ -1,6 +1,6 @@
 <!-- Futuristic Banner Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="300" />  
+  
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED10FF&background=FF466900&center=true&vCenter=true&width=600&lines=Hello+I'm+Musharaf;Cybersecurity%2C+Networking,+Backend,+AI/ML;Scroll+for+projects+and+fun+facts!" />
 </div>
@@ -9,10 +9,10 @@
 
 <div align="center">
   <!-- Cool Coding GIF -->
-  
  <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
+  <img src="https://github.com/musharafmaqbool/musharafmaqbool/blob/main/Short_Silent_Video_Generated-ezgif.com-video-to-gif-converter.gif" width="800" />
 </div>
+
 
 
 
