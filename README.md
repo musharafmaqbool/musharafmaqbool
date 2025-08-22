@@ -1,6 +1,6 @@
 <!-- Futuristic Banner Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/6661165/169140535-36c8f7ba-093a-4b63-8d81-02e11b3371ec.gif" width="100%" /> 
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="300" />  
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED10FF&background=FF466900&center=true&vCenter=true&width=600&lines=Hello+I'm+Musharaf;Cybersecurity%2C+Networking,+Backend,+AI/ML;Scroll+for+projects+and+fun+facts!" />
 </div>
