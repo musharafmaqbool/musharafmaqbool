@@ -69,10 +69,7 @@
 
 ---
 
-<div align="center">
-  <!-- Dynamic Skills SVG -->
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,java,docker,aws,linux,figma,git" />
-</div>
+
 
 ---
 
