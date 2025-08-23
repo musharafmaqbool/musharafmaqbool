@@ -2,7 +2,7 @@
 <div align="center">
   
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED10FF&background=FF466900&center=true&vCenter=true&width=600&lines=Hello+I'm+Musharaf;Cybersecurity%2C+Networking,+Backend,+AI/ML;Scroll+for+projects+and+fun+facts!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ED10FF&background=FF466900&center=true&vCenter=true&width=1000&lines=Hello+I'm+Musharaf;Cybersecurity%2C+Networking,+Backend,+AI/ML;Scroll+for+projects+and+fun+facts!" />
 </div>
 
 ---
