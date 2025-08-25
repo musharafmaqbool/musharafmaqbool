@@ -105,7 +105,7 @@
 ## 🌟 Top Skills & Interests
 - 🛡️ Cybersecurity & Threat Intelligence  
 - 👨‍💻 Networking (Layer 1/2, OSI Model)  
-- ⚛️ React, Node.js, TypeScript  
+- ⚛️ React, Node.js
 - 🛠️ Startup Building & Growth  
 
 ---
