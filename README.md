@@ -90,17 +90,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-| 🚀 Project | 💡 What | 🔗 |
-|:---:|:---|:---|
-| **MISP-and-NESSUS-SCAN-CORRELATION** | *Correlating MISP threat data with Nessus scan results for smarter cybersecurity* | [Repo](https://github.com/musharafmaqbool/MISP-and-NESSUS-SCAN-CORRELATION) |
-| **Network-simulator** | *Simulate OSI Physical & Data Link layers like a legend* | [Repo](https://github.com/musharafmaqbool/Network-simulator) |
-| **nivro-startup** | *A toolkit for launching and growing your next startup* | [Repo](https://github.com/musharafmaqbool/nivro-startup) |
-| **react-portfolio-template** | *Portfolio site ✨ Super-charge your profile with React* | [Repo](https://github.com/musharafmaqbool/react-portfolio-template) |
-| **shoeverse** | *A place for shoe lovers to geek out* | [Repo](https://github.com/musharafmaqbool/shoeverse) |
-
----
 
 ## 🌟 Top Skills & Interests
 - 🛡️ Cybersecurity & Threat Intelligence  
