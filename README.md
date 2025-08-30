@@ -7,7 +7,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
   <!-- Cool Coding GIF -->
 <!-- Skills and GIF Layout -->
 <table>
