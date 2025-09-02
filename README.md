@@ -1,4 +1,4 @@
-<!-- Futuristic Banner Animation -->
+
 <div align="center">
   
   <br>
