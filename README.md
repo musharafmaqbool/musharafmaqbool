@@ -77,12 +77,7 @@
 
 ---
 
-## 🧑‍🔬 About Me
-💡 *I build solutions for the future—connecting cybersecurity, networking, and modern web*  
-🔍 *Explorer at heart; seeking to automate away uncertainty...*  
-😎 *Love making tech accessible & playful*  
 
----
 
 ## 📊 My Activity
 <div align="center">
