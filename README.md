@@ -96,10 +96,6 @@
 - ⚛️ React, Node.js
 - 🛠️ Startup Building & Growth  
 
----
-
-## 💡 Fun Quote Of The Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ---
 
