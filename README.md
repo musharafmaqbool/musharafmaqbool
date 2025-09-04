@@ -79,25 +79,8 @@
 
 
 
-## 📊 My Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musharafmaqbool&show_icons=true&theme=radical" height=190 />
-  <img src="https://streak-stats.demolab.com?user=musharafmaqbool&theme=radical" height=190 />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musharafmaqbool&theme=monokai" height=190 />
-  <img src="https://komarev.com/ghpvc/?username=musharafmaqbool&style=flat&label=Views" />
-</div>
-
----
 
 
-## 🌟 Top Skills & Interests
-- 🛡️ Cybersecurity & Threat Intelligence  
-- 👨‍💻 Networking (Layer 1/2, OSI Model)  
-- ⚛️ React, Node.js
-- 🛠️ Startup Building & Growth  
-
-
----
 
 <!-- End Animation Footer -->
 yeah i suck!
