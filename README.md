@@ -2,7 +2,7 @@
 <div align="center">
   
   <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ED10FF&center=true&vCenter=true&width=1000&size=35&lines=Hello+I'm+Musharaf;How+you+doin',Cybersecurity,+Networking,+Backend,+AI/ML;alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ED10FF&center=true&vCenter=true&width=1000&size=35&lines=Hello+I'm+Musharaf; How+you+doin';Cybersecurity,+Networking,+Backend,+AI/ML;alt="Typing SVG" />
 
 ---
 
