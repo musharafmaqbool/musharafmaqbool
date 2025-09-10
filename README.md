@@ -2,11 +2,10 @@
 <div align="center">
   
   <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ED10FF&center=true&vCenter=true&width=1000&size=35&lines=Hello+I'm+Musharaf;Cybersecurity%2C+Networking%2C+Backend%2C+AI/ML;" alt="Typing SVG" />---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ED10FF&center=true&vCenter=true&width=1000&size=35&lines=Hello+I'm+Musharaf;Cybersecurity%2C+Networking%2C+Backend%2C+AI/ML;" alt="Typing SVG" />
 
 <div align="left">
-  <!-- Cool Coding GIF -->
-<!-- Skills and GIF Layout -->
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
