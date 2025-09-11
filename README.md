@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**🚀 Frameworks & Tools**
+**🚀 Frameworks & Tools:**
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-**🔐 Cybersecurity**
+**🔐 Cybersecurity:**
 <br>
 <img src="https://img.shields.io/badge/MISP-FF0000?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Nessus-009639?style=for-the-badge&logo=tenable&logoColor=white" />
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
 <img src="https://img.shields.io/badge/AlienVault-4CAF50?style=for-the-badge&logo=alienware&logoColor=white" />
 
-**🛠️ Developer Tools**
+**🛠️ Developer Tools:**
 <br>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
